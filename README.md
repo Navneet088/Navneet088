@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navneet088)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/navneet-kumar-jha-239336291/)])
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navneet088)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navneetkumarjha088@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Navneet088&label=Profile+Views&color=00D9FF&style=for-the-badge)](https://github.com/Navneet088)
