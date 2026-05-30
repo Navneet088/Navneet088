@@ -101,7 +101,7 @@ class Navneet:
 
 | 🏷️ Project | 🛠️ Tech Stack | 🔗 |
 |:----------|:-------------|:--:|
-| 🧠 **Conversational RAG with PDF & Chat History** |Python • LLMs • RAG • LangChain |[View →]([https://github.com/Navneet088](https://github.com/Navneet088/Conversational-RAG-Q-A-System-with-PDF-Upload-Chat-History) |
+| 🧠 **Conversational RAG with PDF & Chat History** |Python • LLMs • RAG • LangChain |[View →](https://github.com/Navneet088/Conversational-RAG-Q-A-System-with-PDF-Upload-Chat-History)
 | 🤖 **End-to-End Q&A Chatbot** | Python • LLMs • NLP • LangChain | [View →](https://github.com/Navneet088) |
 | 📉 **ANN Customer Churn Prediction** | TensorFlow • Keras • Deep Learning | [View →](https://github.com/Navneet088) |
 | 🔤 **LSTM Next Word Prediction & Sentiment Analysis** | PyTorch • RNN • LSTM | [View →](https://github.com/Navneet088) |
