@@ -47,7 +47,7 @@ class Navneet:
 
 | 🏢 Company | 💼 Role | 📅 Duration |
 |:----------:|:-------:|:-----------:|
-| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/> **IBM SkillsBuild** | 🤖 AI Intern | Nov 2025 – Jan 2026 |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/> **IBM SkillsBuild** | 🤖 AI Intern | Nov 2025 – Feb 2026 |
 | <img src="https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white"/> **Vodafone Idea Foundation** | 🧠 Gen AI Intern | Dec 2025 |
 | <img src="https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white"/> **Vodafone Idea Foundation** | 📊 ML Intern | Sep 2025 |
 | 🎓 **Edunet Foundation** | 🔬 ML Intern | Sep – Oct 2025 |
