@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Navneet%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Navneet%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Developer;🤖+AI+%2F+ML+Engineer;🧠+Deep+Learning+%7C+NLP+%7C+LLMs;📄+Published+Researcher+%40+ICMSCI+2026;💡+Always+Building%2C+Always+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Developer;🤖+AI+%2F+ML+%2F+Generative+AI+Engineer;🧠+Deep+Learning+%7C+NLP+%7C+LLMs+%7C+Agentic+AI;📄+Published+Researcher+%40+ICMSCI+2026;💡+Always+Building%2C+Always+Learning!" alt="Typing SVG" />
 
 <br/>
 
@@ -23,18 +23,20 @@
 class Navneet:
     name       = "Navneet Kumar Jha"
     location   = "Bihar, India 🇮🇳"
-    education  = "B.Tech CSE @ PCE (2023–2027)"
+    education  = "B.Tech CSE @ Purnea College of Engineering (2023–2027)"
     cgpa       = "8.06 / 10.0"
     roles      = ["Full Stack Dev", "AI/ML Engineer",
-                  "Researcher", "Open Source Enthusiast"]
+                  "Generative AI Engineer", "Researcher"]
+    internships = "10+ across AI, ML, GenAI, Agentic AI & Space Tech"
     currently  = "Building AI-powered apps 🤖"
     fun_fact   = "I train models AND make them deploy! 🚀"
 ```
 
-- 🏆 Published paper at **ICMSCI-2026** on *Predictive Talent Management using ML*
-- 🔭 Working on **LLMs, Chatbots & Deep Learning** projects
-- 🌱 Currently exploring **Generative AI & RAG pipelines**
-- 💬 Ask me about **MERN Stack, ML, Python, DSA**
+- 🏆 Published paper at **ICMSCI-2026** on *Predictive Talent Management using ML for Intelligent Hiring*
+- 🎓 **3× NPTEL** certifications from IIT Kharagpur & IIT Madras (2 Elite)
+- 🔭 Working on **LLMs, Agentic AI, RAG pipelines & Deep Learning** projects
+- 🌱 Currently exploring **multi-agent systems & Generative AI**
+- 💬 Ask me about **MERN Stack, ML, Python, LangChain, DSA**
 - 📍 Greater Patna Area, Bihar, India
 
 <br clear="right"/>
@@ -47,11 +49,14 @@ class Navneet:
 
 | 🏢 Company | 💼 Role | 📅 Duration |
 |:----------:|:-------:|:-----------:|
-| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/> **IBM SkillsBuild** | 🤖 AI Intern | Nov 2025 – Feb 2026 |
-| <img src="https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white"/> **Vodafone Idea Foundation** | 🧠 Gen AI Intern | Dec 2025 |
-| <img src="https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white"/> **Vodafone Idea Foundation** | 📊 ML Intern | Sep 2025 |
-| 🎓 **Edunet Foundation** | 🔬 ML Intern | Sep – Oct 2025 |
-| 💼 **Internshala** | 🌐 Web Dev Intern | May – Jun 2025 |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/> **IBM SkillsBuild** (Edunet Foundation) | 🕸️ Agentic AI Intern | May – Jul 2026 |
+| 🌍 **1M1B** (1 Million for 1 Billion) | 🌱 AI for Sustainability Intern | May – Jun 2026 |
+| 🎓 **Edunet Foundation** (AICTE) | 🤖 Artificial Intelligence Intern | May – Jun 2026 |
+| 🛰️ **India Space Lab** | 🚀 Space Technology Intern | May 2026 |
+| 🛂 **Land Ports Authority of India** | 🌐 Sustainability, Social Inclusion & Gender Intern | Mar – Apr 2026 |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/> **CSRBOX / IBM SkillsBuild** | 📊 AI Strategy & BI Intern | Mar – Apr 2026 |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"/> **IBM SkillsBuild** (Edunet Foundation) | 🤖 Artificial Intelligence Intern | Nov 2025 – Feb 2026 |
+| <img src="https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white"/> **Vodafone Idea Foundation** | 🧠 Gen AI & ML Intern | Sep – Dec 2025 |
 
 </div>
 
@@ -69,13 +74,14 @@ class Navneet:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 AI / ML & Data Science
+### 🧠 AI / ML, GenAI & Agentic AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Web / Backend (MERN Stack)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,9 +89,11 @@ class Navneet:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
@@ -101,14 +109,13 @@ class Navneet:
 
 | 🏷️ Project | 🛠️ Tech Stack | 🔗 |
 |:----------|:-------------|:--:|
-| 🧠 **Conversational RAG with PDF & Chat History** |Python • LLMs • RAG • LangChain |[View →](https://github.com/Navneet088/Conversational-RAG-Q-A-System-with-PDF-Upload-Chat-History)
-| 🤖 **End-to-End Q&A Chatbot** | Python • LLMs • NLP • LangChain | [View →](https://github.com/Navneet088) |
-| 📉 **ANN Customer Churn Prediction** | TensorFlow • Keras • Deep Learning | [View →](https://github.com/Navneet088) |
-| 🔤 **LSTM Next Word Prediction & Sentiment Analysis** | PyTorch • RNN • LSTM | [View →](https://github.com/Navneet088) |
-| 📰 **Fake News & Spam Detection** | NLP • Random Forest • Feature Engineering | [View →](https://github.com/Navneet088) |
-| 📊 **Predictive Analytics Suite** | Scikit-learn • Pandas • NumPy | [View →](https://github.com/Navneet088) |
+| 🕸️ **Multi-Agentic AI Framework** — 4 agents behind one LangGraph router | Python • LangChain • LangGraph • Streamlit | [Code](https://github.com/Navneet088) • [Demo](https://multi-llm-agentic-workspace.streamlit.app/) |
+| 🎓 **University Admission Agent** | Python • LangChain • LangGraph • Streamlit | [Code](https://github.com/Navneet088) • [Demo](https://navneet-college-admission-agent.streamlit.app/) |
+| 💬 **Mind Buddy — Mental Wellness Chatbot** | Python • LLMs • LangChain • Streamlit | [Code](https://github.com/Navneet088) • [Demo](https://navneet-mindbuddy-student-chatbot.streamlit.app/) |
+| 🧠 **Conversational RAG with PDF & Chat History** | Python • LangChain • FAISS • Streamlit | [Code](https://github.com/Navneet088/Conversational-RAG-Q-A-System-with-PDF-Upload-Chat-History) • [Demo](https://end-to-end-q-a-chatbot-app.streamlit.app/) |
+| 🗄️ **LangChain Chat With SQL DB** | Python • LangChain • SQLite/MySQL • Streamlit | [Code](https://github.com/Navneet088/Langchain_chat_With_Db_Charbort) |
 
-[![View All Repos](https://img.shields.io/badge/🗂️%20View%20All%2023%20Public%20Repos-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navneet088?tab=repositories)
+[![View All Repos](https://img.shields.io/badge/🗂️%20View%20All%20Public%20Repos-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navneet088?tab=repositories)
 
 </div>
 
@@ -120,13 +127,16 @@ class Navneet:
 
 | 🏆 | Certification | 🏢 Issuer | 📅 |
 |:--:|:-------------|:--------:|:--:|
-| 📄 | **Conference Paper – ICMSCI 2026** *(Predictive Talent Management using ML)* | ICMSCI | Feb 2026 |
-| 🐍 | **ML with Python Professional Certificate** | Anaconda | Feb 2026 |
-| 🧬 | **Career Essentials in Generative AI** | Microsoft & LinkedIn | Jan 2026 |
-| 🤖 | **Artificial Intelligence Fundamentals** | IBM | Dec 2025 |
-| 🐺 | **ML Statistical Foundations** | Wolfram Research | Dec 2025 |
-| 📜 | **JavaScript** | IIT Bombay (Spoken Tutorial) | Oct 2025 |
-| 📜 | **Python 3.4.3** | IIT Bombay (Spoken Tutorial) | Jul 2024 |
+| 📄 | **Conference Paper – ICMSCI 2026** *(Predictive Talent Management using ML)* | ICMSCI-2026, P.G.D.A.V. College (Delhi Univ.) | Feb 2026 |
+| 🥇 | **NPTEL Elite — Natural Language Processing** (70%) | IIT Kharagpur | 2026 |
+| 🥇 | **NPTEL Elite — ML for Engineering & Science Applications** (77%) | IIT Madras | 2026 |
+| 📘 | **NPTEL — Deep Learning for Natural Language Processing** (54%) | IIT Kharagpur | 2026 |
+| 🐍 | **Machine Learning with Python Professional Certificate** | Anaconda / LinkedIn Learning | Jan 2026 |
+| 🧬 | **Career Essentials in Generative AI** | Microsoft & LinkedIn Learning | Jan 2026 |
+| 👁️ | **OpenCV for Python Developers** | LinkedIn Learning | Jan 2026 |
+| 🐺 | **ML Statistical Foundations Professional Certificate** | Wolfram Research / LinkedIn Learning | Dec 2025 |
+| 🌐 | **Web Development** (Grade A) | Internshala Trainings | Jun 2025 |
+| 📜 | **JavaScript & Python 3.4.3** | Spoken Tutorial, IIT Bombay | 2024–25 |
 
 </div>
 
